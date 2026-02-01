@@ -1,4 +1,13 @@
 [
+    {
+    "id": "4",
+    "date": "01.02.2026",
+    "type": "alert",
+    "author": "команда savy",
+    "title": "деградация сервисов",
+    "body": "наблюдаем деградацию некоторых сервисов (например TikTok) - загрузка может некоторое время не работать. ищем причину",
+    "is_important": true
+  },
   {
     "id": "3",
     "date": "17.12.2025",
@@ -10,7 +19,7 @@
     "is_important": true,
     "action": {
       "label": "наш telegram",
-      "url": "https://t.me/mlgzv"
+      "url": "https://t.me/verlix_dev"
     }
   },
   {
